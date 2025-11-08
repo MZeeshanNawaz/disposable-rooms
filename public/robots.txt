@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tariq_al_khoud_llc.netlify.app/sitemap.xml
